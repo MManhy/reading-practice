@@ -66,4 +66,4 @@ if __name__ == "__main__":
         print(f"查询：{q}")
         print(f"抽取实体：{result}")
 
-# 这是第二次修改添加的注释
+print("修改完成")
